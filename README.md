@@ -66,3 +66,5 @@ Para la revisión de la automatización del registro de un usuario, realizado co
 | | **Artefactos generados**         |                                                                                                                                                 |
 | **Requerimientos de la aplicación** | [Requerimientos-bug-bank](https://docs.google.com/document/d/1HBblIAao1n_0TzyQMQifG4LY3sLbA5R42k8Eeyh9y50/edit?usp=sharing)                                                                                                                |
 | **Reportes de error en Jira**    | [Ver Reportes](https://qaengineer.atlassian.net/issues/?jql=project+%3D+%22QAC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNjk1ZWU0YjFkN2RlNGIyM2EyOTk2NWYwNGU2ZjRlNjEiLCJwIjoiaiJ9) |
+
+🚀
